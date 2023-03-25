@@ -1,2 +1,2 @@
-# BankManagementCPP
+# BankManagementC
 Bank Management Project
